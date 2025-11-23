@@ -7,7 +7,7 @@ UserSettings/
 *.sln
 *.csproj
 *.slnx
-*.userprefs
+*.userprefsgit branch -M main
 *.unityproj
 *.DS_Store
 
